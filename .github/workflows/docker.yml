@@ -6,7 +6,7 @@ on:
 env:
   CONTAINER_REGISTRY: docker.io
   DOCKER_USERNAME: selormey
- IMAGE_NAME: test_app
+  IMAGE_NAME: test_app
 
 jobs: 
   docker_build: 
